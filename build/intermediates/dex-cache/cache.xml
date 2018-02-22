@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\caspe\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\caspe\IdeaProjects\GetAuthenticated\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_4f64997b047904f7972eaedca98d7f1ffa2a86df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\caspe\.android\build-cache\4937f48dabe42e96078b78f008a5e3854de98e69\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\caspe\IdeaProjects\GetAuthenticated\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e4f1a127c23f43bbc39514fe847f15874eae1f74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\caspe\IdeaProjects\GetAuthenticated\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ea49031c05deb6b54a5ca56e6a03ef1225fdcc16">
+        <dex dex="C:\Users\caspe\IdeaProjects\GetAuthenticated\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_774d677892a951df17cf81d200cdd87d03db1316\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\caspe\.android\build-cache\dd07e4d221a0539e536f3ef9426e2daac7505512\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\caspe\IdeaProjects\GetAuthenticated\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e02b27a699dc651aa14f46d698070a1b1e4e7643\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\caspe\.android\build-cache\f7890ea60d35ce60ee4b4e42bbc007ed1a245f58\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\caspe\IdeaProjects\GetAuthenticated\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c152e4637109728ebd4a390282ad7328454666aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\caspe\.android\build-cache\99b3cc52baba4ce742892343bccb1812854ab33c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\caspe\IdeaProjects\GetAuthenticated\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f0a14ea45b7065f411287c081637ab4a78ab2637\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\caspe\.android\build-cache\9ddc4ddce9b0c61a100a9bc9df0ae11130583ab5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\caspe\IdeaProjects\GetAuthenticated\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c643a3631fa2e5e9f5869272013c2b667a86b819\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\caspe\.android\build-cache\1eead5070c03511a61b67964a01c8c19faacca32\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\caspe\IdeaProjects\GetAuthenticated\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_63a47f041b09db39c65343de9a8ee55e845e0f39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\caspe\.android\build-cache\87b26de715ab43d9d1c7b3bfa890f92fc8f2a359\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\caspe\IdeaProjects\GetAuthenticated\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fb519bb88cd4930c206cbe7f7a49b5add5d74d17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\caspe\.android\build-cache\2f37671d82dc51e5453e436f340c916fa6969719\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\caspe\IdeaProjects\GetAuthenticated\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c590b32512c870804b293852052a6833b7b238aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\caspe\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\caspe\IdeaProjects\GetAuthenticated\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_1cfde59ad15165cada701a2010b876c0483a5bb4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\caspe\IdeaProjects\GetAuthenticated\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="C:\Users\caspe\IdeaProjects\GetAuthenticated\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_823d1aa0105cc5899b78ee843fc31b57b76a3bcf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\caspe\.android\build-cache\adf77383f9a374ef8bebebce35689da1e92f7d7c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\caspe\IdeaProjects\GetAuthenticated\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_737920750c4d4c2ca06f07a651c6c85dd8e1abeb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\caspe\.android\build-cache\d3cad423e319e0a65a4399f8558814b8c1d9233d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\caspe\IdeaProjects\GetAuthenticated\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_99c9c06cf5d545834a8a6ea25fa061e61acaf467\classes.dex" />
+    </item>
+
+</items>
